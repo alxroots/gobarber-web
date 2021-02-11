@@ -5,7 +5,7 @@ import SignIn from '../pages/SignIn';
 import SignUp from '../pages/SignUp';
 import Dashboard from '../pages/Dashboard';
 
-import CustomRoute from './routes';
+import CustomRoute from './Routes';
 
 
 
